@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tgbot/static/css/main.e6c13ad2.css",
+    "main.js": "/tgbot/static/js/main.be44e3ae.js",
+    "static/js/453.061517d3.chunk.js": "/tgbot/static/js/453.061517d3.chunk.js",
+    "index.html": "/tgbot/index.html",
+    "main.e6c13ad2.css.map": "/tgbot/static/css/main.e6c13ad2.css.map",
+    "main.be44e3ae.js.map": "/tgbot/static/js/main.be44e3ae.js.map",
+    "453.061517d3.chunk.js.map": "/tgbot/static/js/453.061517d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.be44e3ae.js"
+  ]
+}
